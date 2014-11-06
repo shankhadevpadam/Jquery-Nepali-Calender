@@ -1,6 +1,6 @@
 Jquery-Nepali-Calender
 ======================
-<!-- This is update by Shyam sundar Awal -->
+<!-- This is update by Padam Shankhadev -->
 
 First Jquery Nepali Calender
 
