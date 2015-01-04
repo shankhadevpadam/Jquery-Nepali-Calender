@@ -1,6 +1,7 @@
 /*
 Name:Jquery Nepali Calendar
 Author:Padam Shankhadev
+Updated: 2015-1-4
 */
 (function($){ 
 var bs = {
