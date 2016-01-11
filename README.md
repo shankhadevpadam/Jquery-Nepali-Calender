@@ -6,6 +6,7 @@ First Jquery Nepali Calender
 
 This is the first jquery nepali calender.
 Use in this way
+``` code
 <html>
 <head>
 <title>Jquery Nepali Calender</title>
@@ -25,3 +26,4 @@ $(document).ready(function(){
 <div class="npdatea"></div>
 </body>
 </html>
+```
