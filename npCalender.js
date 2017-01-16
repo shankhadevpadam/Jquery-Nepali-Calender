@@ -2,7 +2,7 @@
 Name:Jquery Nepali Calendar
 Author:Padam Shankhadev
 Creadted Date: 2012-6-17
-Updated Date: 2016-01-28
+Updated Date: 2017-01-16
 */
 (function($){
 var bs = {
